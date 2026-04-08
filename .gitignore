@@ -1,6 +1,0 @@
-__pycache__/
-*.pyc
-models/
-clustered_countries.csv
-.venv/
-venv/
