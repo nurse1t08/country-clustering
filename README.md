@@ -12,13 +12,13 @@
 
 ## Используемые технологии
 
- Python
- Pandas
- Scikit-learn
- Streamlit
- Matplotlib
- Seaborn
- Joblib
+ - Python
+ - Pandas
+ - Scikit-learn
+ - Streamlit
+ - Matplotlib
+ - Seaborn
+ - Joblib
 
 ## Структура проекта
 
